@@ -1,5 +1,8 @@
 /*
-  Este software utiliza código derivado do projeto de Estagio, desenvolvido por [Jeferson Gabriel Alves e Jeferson Ricardo Gabriel].
+  Projeto de Estagio: Solução IoT de baixo custo para monitoramento e automação em ambientes internos e externos.
+  Destinado à empresa Yeté Consultoria Ambiental LTDA cuja Diretora/representante legal: Aline Gomes Zaffani
+  Orientadora: Natália de Souza Pelinson
+  Código dsenvolvido por [Jeferson Gabriel Alves e Jeferson Ricardo Gabriel].
 */
 
 
